@@ -1,0 +1,44 @@
+{
+    "wellnessBuddies": [
+        {
+            "name": "Aman Pathak",
+            "email": "2023UME0243@iitjammu.ac.in",
+            "image": "images/amanpathak.png"
+        },
+        {
+            "name": "Rohit Khatri",
+            "email": "2023ucs0108@iitjammu.ac.in",
+            "image": "images/rohitkhatri.jpg"
+        },
+        {
+            "name": "Lucky",
+            "email": "2022uce0016@iitjammu.ac.in",
+            "image": "images/lky - LUCKY.jpg"
+        },
+        {
+            "name": "Muthres Gurjar",
+            "email": "2022ucs0097@iitjammu.ac.in",
+            "image": "images/muthresgurjar.png"
+        },
+        {
+            "name": "BHADHAVATH PRATHIMA",
+            "email": "2022UCS0087@iitjammu.ac.in",
+            "image": "images/bhadhavathprathima.jpg"
+        },
+        {
+            "name": "Komal Singh",
+            "email": "2023uma0217@iitjammu.ac.in",
+            "image": "images/komalsingh.jpg"
+        },
+        {
+            "name": "Raghu Ram Gadi",
+            "email": "2022uce0236@iitjammu.ac.in",
+            "image": "images/raghuramgadi.jpg"
+        },
+        {
+            "name": "Manish Kumar",
+            "email": "2022uce0017@iitjammu.ac.in",
+            "image": "images/manishkumar.jpg"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "resources": [
+        {
+            "name": "Anxiety",
+            "image": "https://www.calmclinic.com/storage/images/213/qoxihx/main/w1600.png",
+            "video": "xsEJ6GeAGb0",
+            "shortArticle": "A mental health disorder characterized by persistently depressed mood or loss of interest in activities, causing significant impairment in daily life.",
+            "article": "Anxiety is a natural response to stress, but it can become overwhelming when it starts to interfere with daily life, making it difficult to focus, sleep, or interact with others. Persistent feelings of worry, fear, or dread can create a cycle of negative thoughts that impact both mental and physical health. Managing anxiety involves understanding its triggers, practicing relaxation techniques, and sometimes seeking professional help to restore balance and regain control over emotions."
+        },
+        {
+            "name": "Depression",
+            "image": "https://static.vecteezy.com/system/resources/thumbnails/011/411/660/small_2x/man-felling-depression-under-moral-stressful-sad-feel-guilty-need-attention-help-sitting-alone-vector.jpg",
+            "video": "z-IR48Mb3W0",
+            "shortArticle": "A mental health disorder characterized by persistently depressed mood or loss of interest in activities, causing significant impairment in daily life.",
+            "article": "Depression is a mood disorder characterized by persistent sadness, loss of interest in activities once enjoyed, and a lack of energy. It can affect how a person feels, thinks, and handles daily tasks, leading to difficulties in concentration, decision-making, and maintaining relationships. Depression often brings feelings of hopelessness, worthlessness, and can even lead to physical symptoms such as changes in appetite or sleep patterns. While it is a serious condition, depression is treatable through therapy, medication, lifestyle changes, and support from loved ones."
+        },
+        {
+            "name": "Bipolar-Disorder",
+            "image": "https://bayareacbtcenter.com/wp-content/uploads/2023/09/shutterstock_1293081400-1-scaled-e1694546100273.webp",
+            "video": "KSvk8LLBo2g",
+            "shortArticle": "A mental health condition causing extreme mood swings between emotional highs (mania) and lows (depression).",
+            "article": "Bipolar disorder, previously known as manic depression, is a mental disorder characterized by periods of depression and periods of abnormally elevated mood that each last from days to weeks. If the elevated mood is severe or associated with psychosis, it is called mania; if it is less severe and does not significantly affect functioning, it is called hypomania. During mania, an individual behaves or feels abnormally energetic, happy, or irritable, and they often make impulsive decisions with little regard for the consequences; there is usually also a reduced need for sleep during manic phases. During periods of depression, the individual may experience crying and have a negative outlook on life and demonstrate poor eye contact with others. The risk of suicide is high; over a period of 20 years, 6% of those with bipolar disorder died by suicide, while 30-40% engaged in self-harm. Other mental health issues, such as anxiety disorders and substance use disorders, are commonly associated with bipolar disorder."
+        },
+        {
+            "name": "PTSD",
+            "image": "https://images.squarespace-cdn.com/content/v1/58d09402db29d660e4781a57/1509813467130-Z8PCZGIMWH2SS523V4JT/PTSD.jpg",
+            "video": "hzSx4rMyVjI",
+            "shortArticle": " A mental health disorder triggered by experiencing or witnessing a traumatic event, leading to flashbacks, nightmares, and severe anxiety.",
+            "article": "Post-traumatic stress disorder (PTSD) is a mental and behavioral disorder that develops from experiencing a traumatic event, such as sexual assault, warfare, traffic collisions, child abuse, domestic violence, or other threats on a person's life or well-being. Symptoms may include disturbing thoughts, feelings, or dreams related to the events, mental or physical distress to trauma-related cues, attempts to avoid trauma-related cues, alterations in the way a person thinks and feels, and an increase in the fight-or-flight response. These symptoms last for more than a month after the event and can include triggers such as misophonia. Young children are less likely to show distress, but instead may express their memories through play. A person with PTSD is at a higher risk of suicide and intentional self-harm."
+        },
+        {
+            "name": "Schizophrenia",
+            "image": "https://www.bcss.org/wp-content/uploads/resources/bcss-british-columbia-schizophrenia-society-person-with-schizophrenia-and-faces-of-symptoms.jpg",
+            "video": "PURvJV2SMso",
+            "shortArticle": "A chronic brain disorder characterized by distorted thinking, perceptions, emotions, language, and behavior, often including delusions and hallucinations.",
+            "article": "Schizophrenia is a mental disorder characterized by hallucinations (typically hearing voices), delusions, disorganized thinking and behavior,and flat or inappropriate affect. Symptoms develop gradually and typically begin during young adulthood and are never resolved. There is no objective diagnostic test; diagnosis is based on observed behavior, a psychiatric history that includes the person's reported experiences, and reports of others familiar with the person. For a diagnosis of schizophrenia, the described symptoms need to have been present for at least six months (according to the DSM-5) or one month (according to the ICD-11). Many people with schizophrenia have other mental disorders, especially mood disorders, anxiety disorders, and obsessive-compulsive disorder."
+        },
+        {
+            "name": "Eating Disorder",
+            "image": "https://agecareadvice.co.uk/wp-content/uploads/2022/02/shutterstock_1283676715-768x768.jpg",
+            "video": "3Bax8ijH038",
+            "shortArticle": "A group of mental health conditions characterized by unhealthy eating habits, obsession with weight, and body image issues, affecting physical and emotional well-being.",
+            "Article": "An eating disorder is a mental disorder defined by abnormal eating behaviors that adversely affect a person's physical or mental health.These behaviors include eating either too much or too little. Types of eating disorders include binge eating disorder, where the patient keeps eating large amounts in a short period of time typically while not being hungry; anorexia nervosa, where the person has an intense fear of gaining weight and restricts food or overexercises to manage this fear; bulimia nervosa, where individuals eat a large quantity (binging) then try to rid themselves of the food (purging); pica, where the patient eats non-food items; rumination syndrome, where the patient regurgitates undigested or minimally digested food; avoidant/restrictive food intake disorder (ARFID), where people have a reduced or selective food intake due to some psychological reasons; and a group of other specified feeding or eating disorders."
+        },
+        {
+            "name": "OCD",
+            "image": "https://mantracare.org/wp-content/uploads/2022/06/OCD-Tendencies-What-Is-It-And-How-To-Manage-Them-1024x1024.jpg.webp",
+            "video": "I8Jofzx_8p4",
+            "shortArticle": "A mental health disorder where individuals experience intrusive thoughts (obsessions) and feel compelled to perform repetitive actions (compulsions) to alleviate distress, often impairing daily functioning.",
+            "article": "Obsessive-compulsive disorder (OCD) is a mental health condition characterized by persistent, unwanted thoughts or urges (obsessions) that cause significant distress. To manage this anxiety, individuals feel driven to perform repetitive actions or rituals (compulsions). These compulsions, although aimed at reducing anxiety, often become time-consuming and interfere with daily life, relationships, and overall functioning. Over time, the cycle of obsessions and compulsions can severely impact an individual's mental well-being and ability to engage in normal activities."
+        },
+        {
+            "name": "Personality Disorder",
+            "image": "https://www.tulasihealthcare.com/wp-content/uploads/2022/07/Personality-Disorder-1024x1024.jpg",
+            "video": "4E1JiDFxFGk",
+            "shortArticle": "A mental health condition characterized by rigid, unhealthy patterns of thinking, functioning, and behaving, often leading to difficulties in relationships and social interactions.",
+            "article": "Personality disorders (PD) are a class of mental disorders characterized by enduring maladaptive patterns of behavior, cognition, and inner experience, exhibited across many contexts and deviating from those accepted by the individual's culture. These patterns develop early, are inflexible, and are associated with significant distress or disability. The definitions vary by source and remain a matter of controversy.Official criteria for diagnosing personality disorders are listed in the sixth chapter of the International Classification of Diseases (ICD) and in the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders (DSM)."
+        }
+    ]
+}
