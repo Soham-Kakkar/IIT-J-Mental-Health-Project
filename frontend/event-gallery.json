@@ -1,0 +1,45 @@
+{
+    "images": [
+      {
+        "src": "./images/events/IMG-20241020-WA0013.jpg",
+        "alt": "Event 1"
+      },
+      {
+        "src": "./images/events/IMG-20241020-WA0015.jpg",
+        "alt": "Event 2"
+      },
+      {
+        "src": "./images/events/IMG-20241020-WA0016.jpg",
+        "alt": "Event 3"
+      },
+      {
+        "src": "./images/events/IMG-20241020-WA0019.jpg",
+        "alt": "Event 4"
+      },
+      {
+        "src": "./images/events/IMG-20241020-WA0024.jpg",
+        "alt": "Event 5"
+      },
+      {
+        "src": "./images/events/IMG-20241020-WA0026.jpg",
+        "alt": "Event 6"
+      },
+      {
+        "src": "./images/events/IMG-20241020-WA0028.jpg",
+        "alt": "Event 7"
+      },
+      {
+        "src": "./images/events/IMG-20241020-WA0030.jpg",
+        "alt": "Event 8"
+      },
+      {
+        "src": "./images/events/IMG-20241020-WA0036.jpg",
+        "alt": "Event 9"
+      },
+      {
+        "src": "./images/events/IMG-20241020-WA0041.jpg",
+        "alt": "Event 10"
+      }
+    ]
+  }
+  
