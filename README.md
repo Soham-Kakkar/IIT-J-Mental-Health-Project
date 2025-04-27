@@ -15,4 +15,4 @@
 
 ## Live Site
 
-You can access the website here: [Manomitra IIT Jammu Website](https://iit-j-mental-health-project.vercel.app)
+You can access the website here: [Manomitra IIT Jammu Website](http://manomitra-iit-jammu.vercel.app)
